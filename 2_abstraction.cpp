@@ -6,4 +6,9 @@
 //it comes under math.h library and the library implementation is hidden from us
 
 //similarly we hidden whole class implementation and we just have access to some features of the class,
-//usinf=g that features we do our work
+//using that features we do our work
+
+
+
+
+
